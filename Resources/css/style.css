@@ -1,0 +1,27 @@
+#heading h1 {
+  color:white;
+  font-family:Verdana;
+  font-size:50px;
+  font-weight:normal;
+  text-align: center;
+}
+body{
+  align-content: center;
+  background-color:black;
+  text-align: center;
+}
+h3 {
+  color:Aquamarine;
+  font-size:16px;
+  text-align:center;
+}
+#images h1{
+  font-family:Verdana;
+  font-weight:300;
+  font-size:42px;
+}
+#images p{
+  font-family:Verdana;
+  font-size:21px;
+  color:grey;
+}
